@@ -5,8 +5,8 @@
 1. [Introduction](#toc1)
 2. [TrackML Dataset](#toc2)
 3. [Data Preprocessing](#toc3)
-4. [section3](#toc4)
-5. [section4](#toc5)
+4. [Model Training](#toc4)
+5. [Solving the Vanishing Gradient Problem](#toc5)
 6. [Results](#toc6)
 7. [References](#toc7)
 
