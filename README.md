@@ -1,4 +1,4 @@
-# Solving Vanishing gradient problem in the Particle Tracking Problem for Quantum Graph Neural Networks
+# Optimizing Quantum Graph Neural Networks for the Particle Tracking Problem 
 
 ### Table of Contents  
 
