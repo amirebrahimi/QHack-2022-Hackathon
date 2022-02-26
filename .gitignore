@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 __pycache__
+train_100_events/
+*.zip
