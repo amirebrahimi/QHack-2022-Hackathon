@@ -15,9 +15,9 @@ _The Superpositioned States of America_
 
 1. Fork of [QtrkX](https://github.com/amirebrahimi/qtrkx-gnn-tracking/) with experiments (see various branches)
 1. [Final report](CERN_Project_Report.pdf)
-1. [PR]() back to QtrkX
+1. [PR](https://github.com/QTrkX/qtrkx-gnn-tracking/pull/3) back to QtrkX
 
-Related: [Final submission on QHack](https://github.com/XanaduAI/QHack/issues/141)
+Related: [Final submission to QHack](https://github.com/XanaduAI/QHack/issues/141)
 
 ## Abstract
 
