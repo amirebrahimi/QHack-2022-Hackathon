@@ -13,7 +13,7 @@ _The Superpositioned States of America_
 
 ## Final Deliverables
 
-1. Fork of [QtrkX](https://github.com/amirebrahimi/qtrkx-gnn-tracking/) with experiments
+1. Fork of [QtrkX](https://github.com/amirebrahimi/qtrkx-gnn-tracking/) with experiments (see various branches)
 1. [Final report](CERN_Project_Report.pdf)
 1. [PR]() back to QtrkX
 
